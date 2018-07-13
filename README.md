@@ -1,8 +1,9 @@
 <img src="https://user-images.githubusercontent.com/26717886/42422483-e56bb816-82b4-11e8-934c-78d44eee83a2.png" width="800px"></img>
 
-<h2>Tabulate - Point of sale and mobile companion app for bars and restaurants</h2>
-<h4>A virtual tab between merchants and customers</h4>
-<h4>Winner at Rehive Fintech Challenge July 2018</h4>
+<h2>Winner (2nd Place) at Rehive Fintech Challenge July 2018</h2>
+<h4>Built two Fintech Apps within 30 hours in a team of 4 using React Native, Expo, Firebase, MongoDB, Google Cloud, and Stripe, one app for merchants and another for customers</h4>
+<h4>Implemented client side functions in javaScript using Stripe API and Google Cloud Functions for virtual tab payments to increase customer satisfaction, revenue, and minimize costs for the merchants by reducing wait times and bill confusion for consumers</h4>
+
 <br>
 <br>
 <br>
